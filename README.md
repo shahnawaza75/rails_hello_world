@@ -10,13 +10,8 @@
 - Devise gem
 - cancancan gem
 
-## unit testing
+- https://github.com/shahnawaza75/react-hello-frontend.git
 
-- Run tests using rspec
-
-## Live Presentation Video
-
-## Live Demo
 
 ### Getting Started
 
