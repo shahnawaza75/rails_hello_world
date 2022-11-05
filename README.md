@@ -10,8 +10,7 @@
 - Devise gem
 - cancancan gem
 
-- https://github.com/shahnawaza75/react-hello-frontend.git
-
+- https://github.com/shahnawaza75/react-hello-frontend
 
 ### Getting Started
 
